@@ -1,0 +1,42 @@
+# **CANCELLATION**
+
+There are 3 ways in which orders can be cancelled:
+
+1. By the Buyer&#39;s (or Customer&#39;s) request
+2. By Seller&#39;s (or Merchant&#39;s) request
+3. By DoctorOnCall Platform
+
+Refund will be credited into the Buyer&#39;s credit card or bank account depending on the period of time the Buyer&#39;s financial institution is required to arrange for the refund.
+
+## **By Buyer&#39;s request**
+
+Buyers can cancel orders without Seller&#39;s approval **before** the **order has been arranged for shipment.** However, once the order has been arranged for shipment, buyer cancellations will need to be approved by the Seller.
+
+## **By Sellers&#39; request**
+
+In the case where the Seller is **not able to fulfil the order** (e.g. out of stock), the Seller can cancel the order. Seller will need to notify the Buyer that the order has been cancelled within **two (2) working days** of receiving the order.
+
+## **By DoctorOnCall Platform**
+
+Orders can also be **cancelled by DoctorOnCall Platform** when a Seller does not respond to a buyer&#39;s cancellation request within **2 days**.
+
+# **RETURN AND/OR EXCHANGE**
+
+1. All Return/Refund requests will be managed and reviewed by DoctorOnCall on behalf of all DoctorOnCall Sellers.
+2. Return and/ or Exchange of Products can be arranged under the following reasons:
+  1. If the Product was delivered in a damaged or defective condition; or
+  2. If the Product has expired or is nearing expiry (less than 6 months) without prior knowledge of the Buyer; or
+  3. If one or more products was wrongly included/excluded; or
+  4. If the product delivered is different from what was ordered
+  5. &quot;Change of mind&quot; is not allowed as a reason for return and/ or exchange
+3. The Buyer shall examine the Product(s) immediately upon receiving, for any deficiencies and/or damages.
+4. Should the Buyer wish for return and/ or exchange, the Buyer has to notify via the DoctorOnCall&#39;s email at marketplace@doctoroncall.com.my. The Seller reserves the rights to reject the request for return and/ or exchange if not notified by the Buyer within two (2) day of receiving the product.
+5. DoctorOnCall will require the Buyer or the Seller to submit relevant supporting documents and will try to complete the investigation within 5 working days from the date the dispute is filed.
+6. Upon approval of the Return and/ or Exchange request, the Buyer is to deliver the affected Product back to the address of the vendor as stated on the parcel received
+7. The affected Products MUST be returned in its new, unused, original condition, with quantity and original packaging that was delivered to the Buyer.
+8. For rehab products, wheelchairs, electronic products, and medical devices, all products must be returned in its original packaging with cables, accessories, and documentation including manuals and warranty card intact.
+9. Failure to return the Product as described in clause 7 and 8 will result in a cancellation of the return and/ or exchange request, and any fees incurred in delivering the package back to the Buyer will be borne by the Buyer.
+10. The return of a Product by a Buyer does not automatically warrant for an exchange or refund. DoctorOnCall will inspect the returned Products upon receipt of the same.
+11. All replacements or exchange of Products shall be subject to stock availability. If a Product which was ordered and invoiced is not included in the delivery, DoctorOnCall shall either refund the Buyer the value of that Product, or replace the ordered Product.
+12. If any Product which was not included in the Buyer&#39;s Order is delivered to the Buyer, DoctorOnCall shall collect the Product from the Buyer.
+13. All refunds will be made via the same mode of payment within 2 months. Buyer&#39;s receipt of the refund will depend on the period of time the selected financial institution takes to finalise the refund. DoctorOnCall shall not be liable with respect to any loss, damage, cost or expense that the Buyer or any person may incur as a result of any delay in the financial institution processing of the said refund.

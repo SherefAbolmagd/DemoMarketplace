@@ -1,0 +1,247 @@
+@font-face {
+  font-family: 'jiran';
+  src:
+    url('../fonts/jiran.ttf?nukgc0') format('truetype'),
+    url('../fonts/jiran.woff?nukgc0') format('woff'),
+    url('../fonts/jiran.svg?nukgc0#jiran') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'jiran' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: inherit;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.jiran-alarm:before {
+  content: "\e900";
+}
+.jiran-alarm-clock:before {
+  content: "\e901";
+}
+.jiran-analytics:before {
+  content: "\e902";
+}
+.jiran-arrow-back:before {
+  content: "\e903";
+}
+.jiran-arrow-next:before {
+  content: "\e904";
+}
+.jiran-back:before {
+  content: "\e905";
+}
+.jiran-bar-chart:before {
+  content: "\e906";
+}
+.jiran-chat:before {
+  content: "\e907";
+}
+.jiran-close:before {
+  content: "\e908";
+}
+.jiran-cloud:before {
+  content: "\e909";
+}
+.jiran-credit-cards:before {
+  content: "\e90a";
+}
+.jiran-delete-button:before {
+  content: "\e90b";
+}
+.jiran-desktop:before {
+  content: "\e90c";
+}
+.jiran-diamond:before {
+  content: "\e90d";
+}
+.jiran-down-arrow:before {
+  content: "\e90e";
+}
+.jiran-download:before {
+  content: "\e90f";
+}
+.jiran-edit:before {
+  content: "\e910";
+}
+.jiran-exit:before {
+  content: "\e911";
+}
+.jiran-eye:before {
+  content: "\e912";
+}
+.jiran-facebook:before {
+  content: "\e913";
+}
+.jiran-favorites:before {
+  content: "\e914";
+}
+.jiran-favorites-button:before {
+  content: "\e915";
+}
+.jiran-flag:before {
+  content: "\e916";
+}
+.jiran-folder:before {
+  content: "\e917";
+}
+.jiran-forms:before {
+  content: "\e918";
+}
+.jiran-gear:before {
+  content: "\e919";
+}
+.jiran-google-plus:before {
+  content: "\e91a";
+}
+.jiran-half-filled-rating-star:before {
+  content: "\e91b";
+}
+.jiran-happiness:before {
+  content: "\e91c";
+}
+.jiran-home:before {
+  content: "\e91d";
+}
+.jiran-honeymoon:before {
+  content: "\e91e";
+}
+.jiran-inbox:before {
+  content: "\e91f";
+}
+.jiran-info:before {
+  content: "\e920";
+}
+.jiran-like:before {
+  content: "\e921";
+}
+.jiran-linkedin:before {
+  content: "\e922";
+}
+.jiran-mail:before {
+  content: "\e923";
+}
+.jiran-mastercard:before {
+  content: "\e924";
+}
+.jiran-menu:before {
+  content: "\e925";
+}
+.jiran-menu-task:before {
+  content: "\e926";
+}
+.jiran-new-file:before {
+  content: "\e927";
+}
+.jiran-next:before {
+  content: "\e928";
+}
+.jiran-paperclip-document-outline:before {
+  content: "\e929";
+}
+.jiran-paper-plane:before {
+  content: "\e92a";
+}
+.jiran-paypal-logo-in-rectangular-black-card:before {
+  content: "\e92b";
+}
+.jiran-pdf:before {
+  content: "\e92c";
+}
+.jiran-picture:before {
+  content: "\e92d";
+}
+.jiran-pie-chart:before {
+  content: "\e92e";
+}
+.jiran-pinterest:before {
+  content: "\e92f";
+}
+.jiran-placeholder:before {
+  content: "\e930";
+}
+.jiran-ppt:before {
+  content: "\e931";
+}
+.jiran-price-tag:before {
+  content: "\e932";
+}
+.jiran-printer:before {
+  content: "\e933";
+}
+.jiran-refresh-button:before {
+  content: "\e934";
+}
+.jiran-right-arrow-angle:before {
+  content: "\e935";
+}
+.jiran-rss:before {
+  content: "\e936";
+}
+.jiran-search:before {
+  content: "\e937";
+}
+.jiran-settings:before {
+  content: "\e938";
+}
+.jiran-share:before {
+  content: "\e939";
+}
+.jiran-shopping-cart:before {
+  content: "\e93a";
+}
+.jiran-smartphone-call:before {
+  content: "\e93b";
+}
+.jiran-speakers:before {
+  content: "\e93c";
+}
+.jiran-table:before {
+  content: "\e93d";
+}
+.jiran-team:before {
+  content: "\e93e";
+}
+.jiran-thumb-up:before {
+  content: "\e93f";
+}
+.jiran-tick:before {
+  content: "\e940";
+}
+.jiran-twitter:before {
+  content: "\e941";
+}
+.jiran-unlocked:before {
+  content: "\e942";
+}
+.jiran-upload:before {
+  content: "\e943";
+}
+.jiran-user:before {
+  content: "\e944";
+}
+.jiran-warning-sign:before {
+  content: "\e945";
+}
+.jiran-xls:before {
+  content: "\e946";
+}
+.jiran-youtube:before {
+  content: "\e947";
+}
+.jiran-youtube-logotype:before {
+  content: "\e948";
+}
+.jiran-zip:before {
+  content: "\e949";
+}
